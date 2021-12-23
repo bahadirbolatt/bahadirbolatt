@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bahadirbolatt
 - 👀 I’m interested in sofware and coding.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C and Python.
 - 📫 You can contact me on bhdrblt5@gmail.com .
 
 <!---
