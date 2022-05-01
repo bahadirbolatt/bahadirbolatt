@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-9624
-Fork on GitHub
-2307
-
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Bahadır!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahadirbolatt&label=Profile%20views&color=0e75b6&style=flat" alt="bahadirbolatt" /> </p>
