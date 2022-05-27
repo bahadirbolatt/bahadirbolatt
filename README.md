@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **2022 - Kodluyoruz & Front-End/Back-End Web Development Bootcamp Preparation Program**
 
-- 🌱 I’m currently learning **Python, C, Java, nodeJS, DroneKit**
+- 🌱 I’m currently learning **Python, C, Django, DroneKit**
 
 - 💬 Ask me about **autonomous flight software**
 
