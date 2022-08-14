@@ -4,11 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahadirbolatt" alt="bahadirbolatt" /></a> </p>
 
-- 🔭 I’m currently working on **2022 - Kodluyoruz & Front-End/Back-End Web Development Bootcamp Preparation Program**
+- 🔭 I’m currently working on **Ecole42 | 42Kocaeli Software School**
 
-- 🌱 I’m currently learning **Python, C, Django, DroneKit**
-
-- 💬 Ask me about **autonomous flight software**
+- 🌱 I’m currently learning **Python and C**
 
 - 📫 How to reach me **bhdrblt5@gmail.com**
 
