@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Bahadır.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahadirbolatt&label=Profile%20views&color=0e75b6&style=flat" alt="bahadirbolatt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahadirbolatt" alt="bahadirbolatt" /></a> </p>
+[![Generic badge](https://img.shields.io/badge/42-ECOLE-<COLOR>.svg)](https://42kocaeli.com.tr/)
 
 - 🔭 I’m currently working on **Ecole42 | 42Kocaeli Software School**
 
