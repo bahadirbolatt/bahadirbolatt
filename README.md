@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Ecole42 | 42Kocaeli Software School**
 
-- 🌱 I’m currently learning **Python and C**
+- 🌱 I’m currently learning **C and C++**
 
 - 📫 How to reach me **bhdrblt5@gmail.com**
 
