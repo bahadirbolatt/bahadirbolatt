@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahadirbolatt&label=Profile%20views&color=0e75b6&style=flat" alt="bahadirbolatt" /> </p>
 
-- 🔭 I’m currently working on **Ecole42 | 42Kocaeli Software School**
+- 🔭 I’m student at **Ecole42 | University of Kocaeli**
 
 - 🌱 I’m currently learning **C and C++**
 
